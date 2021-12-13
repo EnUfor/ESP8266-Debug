@@ -1,6 +1,6 @@
 # ESP8266 GDB Debug
 
-<sub><sup>[source](https://arduino-esp8266.readthedocs.io/en/latest/gdb.html)</sup></sub>
+<sub><sup><a href="https://arduino-esp8266.readthedocs.io/en/latest/gdb.html">(source)</a></sup></sub>
 
 1. Cloned [esp-gdbstub](https://github.com/espressif/esp-gdbstub) to `C:\Users\Andrew Grosman\Documents\Arduino\libraries`
 
