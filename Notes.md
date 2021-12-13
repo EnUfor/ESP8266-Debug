@@ -1,6 +1,6 @@
 # ESP8266 GDB Debug
 
-<sub><sup>[(source)](https://arduino-esp8266.readthedocs.io/en/latest/gdb.html)</sup></sub>
+<sub><sup>[source](https://arduino-esp8266.readthedocs.io/en/latest/gdb.html)</sup></sub>
 
 1. Cloned [esp-gdbstub](https://github.com/espressif/esp-gdbstub) to `C:\Users\Andrew Grosman\Documents\Arduino\libraries`
 
@@ -59,7 +59,7 @@
 
 ## VSCode *launch.json*
 
-<sub><sup>[(source)](https://github.com/microsoft/vscode-cpptools/issues/1447#issuecomment-517906636)</sup></sub>
+<sub><sup>[source](https://github.com/microsoft/vscode-cpptools/issues/1447#issuecomment-517906636)</sup></sub>
 
 ```JSON
 {
